@@ -1,0 +1,9 @@
+c:\users\rushan\documents\visual studio 2013\Projects\SPO_4\SPO_4\bin\Debug\SPO_4.exe.config
+c:\users\rushan\documents\visual studio 2013\Projects\SPO_4\SPO_4\obj\Debug\SPO_4.csprojResolveAssemblyReference.cache
+c:\users\rushan\documents\visual studio 2013\Projects\SPO_4\SPO_4\bin\Debug\SPO_4.exe
+c:\users\rushan\documents\visual studio 2013\Projects\SPO_4\SPO_4\bin\Debug\SPO_4.pdb
+c:\users\rushan\documents\visual studio 2013\Projects\SPO_4\SPO_4\obj\Debug\SPO_4.exe
+c:\users\rushan\documents\visual studio 2013\Projects\SPO_4\SPO_4\obj\Debug\SPO_4.pdb
+C:\Users\User\Desktop\Универ\СПО\4\SPO_4\SPO_4\bin\Debug\SPO_4.exe.config
+C:\Users\User\Desktop\Универ\СПО\4\SPO_4\SPO_4\obj\Debug\SPO_4.exe
+C:\Users\User\Desktop\Универ\СПО\4\SPO_4\SPO_4\obj\Debug\SPO_4.pdb
